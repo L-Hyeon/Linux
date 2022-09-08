@@ -1,0 +1,40 @@
+### Commands
+
+- sudo
+- su
+- useradd
+- passwd
+- id
+- logout
+- exit = ctrl + D
+- ctrl + C
+- --help
+- pwd
+  - 현재 디렉토리 확인
+- cd
+  - cd ~ => To Home Directory
+  - cd .. => To Upper
+- ls
+  - -a => print all files
+  - -d => only directories
+  - -l => detail info.
+  - -L => symbolic link
+- mkdir
+- rmdir
+- touch
+  - 그냥 한 번 확인
+  - 파일 없으면 생성
+- cp
+  - -r => recursively copy all subs
+  - -f => enforce
+- mv
+  - -f
+- rm
+  - -r
+  - -f
+- chmod
+  - 파일의 권한 변경
+- echo
+  - print environment variables
+- cat
+  - 파일을 열지 않고 내용을 확인
