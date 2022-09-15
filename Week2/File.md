@@ -129,7 +129,3 @@ int fcntl(int fd, int cmd, ...);
   - F_GETFD/F_SETFD (fd)
   - F_GETFL/F_SETFL (flag)
   - F_GETOWN/F_SETOWN
-
-# 상담: 코더와의 차이점
-
-# 코딩 컨밴션
